@@ -1,4 +1,4 @@
-# 📝 BONSAI TODO APP
+# 📝 Phase I - In-Memory Python Console App
 
 A **Python CLI TODO application** with agent-based architecture that manages tasks in memory. Users can add, view, update, delete, and toggle task completion using a console menu.
 
@@ -34,7 +34,7 @@ Built for the **Hackathon GIAIC** competition.
 ## 📁 Project Structure
 
 ```
-BONSAI TODO APP/
+Phase I - In-Memory Python Console App/
 ├── src/
 │   ├── agents/          # Coordinating agents
 │   │   ├── master_agent.py      # Main application loop & routing
@@ -83,7 +83,7 @@ python src/cli/main.py
 
 Or from any directory:
 ```bash
-python /path/to/BONSAI\ TODO\ APP/src/cli/main.py
+python /path/to/Phase\ I - In-Memory\ Python\ Console\ App/src/cli/main.py
 ```
 
 ---
